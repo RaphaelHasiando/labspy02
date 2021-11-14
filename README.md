@@ -48,5 +48,8 @@ Untuk Tiga kondisi sebelumnya terletak di Kondisi 'Nilai yang tidak sama' jika h
 
      if bilangan_1 == bilangan_2 == bilangan_3:
        print("Tiga bilangan tersebut adalah sama")
+![image](https://user-images.githubusercontent.com/61907877/141687455-171b9f6d-6a70-460d-82a3-94f660b323fc.png)
+![image](https://user-images.githubusercontent.com/61907877/141687478-3efdb569-869d-4d52-9bdb-390aa20d70ac.png)
+<img width="960" alt="flowchart" src="https://user-images.githubusercontent.com/61907877/141687485-5c7ca307-e8d3-47ca-b6b2-e9176980b0bc.png">
 
 
