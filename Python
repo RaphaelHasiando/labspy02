@@ -1,0 +1,14 @@
+bilangan_1 = int(input("Bilangan 1 = "))
+bilangan_2 = int(input("Bilangan 2 = "))
+bilangan_3 = int(input("Bilangan 3 = "))
+
+if bilangan_1 != bilangan_2 or bilangan_1 != bilangan_3:
+    if bilangan_1 > bilangan_2 and bilangan_1 > bilangan_3:
+        print(f"Bilangan 1 ({bilangan_1}) adalah bilangan terbesar")
+    elif bilangan_2 > bilangan_3:
+        print(f"Bilangan 2 ({bilangan_2}) adalah bilangan terbesar")
+    else:
+        print(f"Bilangan 3 ({bilangan_3}) adalah bilangan terbesar")
+
+if bilangan_1 == bilangan_2 == bilangan_3:
+    print("Tiga bilangan tersebut adalah sama")
